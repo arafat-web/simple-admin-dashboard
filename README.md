@@ -1,6 +1,13 @@
 # Simple-Admin-Dashboard
 Simple Admin Dashboard using Bootstrap 5
 
+ [![Stargazers](https://img.shields.io/github/stars/arafat-web/simple-admin-dashboard?style=for-the-badge)](https://github.com/arafat-web/simple-admin-dashboard/stargazers)
+[![Issues](https://img.shields.io/github/issues/arafat-web/simple-admin-dashboard?style=for-the-badge)](https://github.com/arafat-web/simple-admin-dashboard)
+[![MIT License](https://img.shields.io/github/license/arafat-web/simple-admin-dashboard?style=for-the-badge)](https://github.com/arafat-web/simple-admin-dashboard/issues)
+
+
+
+# Getting started
 
 ## Dashboard
 ![Screenshot](images/screenshot.png)
